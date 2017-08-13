@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Console\bin\Debug\Console.exe.config
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Console\bin\Debug\Console.exe
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Console\bin\Debug\Console.pdb
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Console\bin\Debug\Product.dll
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Console\bin\Debug\Service.dll
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Console\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Console\bin\Debug\Product.pdb
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Console\bin\Debug\Service.pdb
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Console\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Console\obj\Debug\Console.exe
+C:\Users\User\Desktop\GitHub\NET.S.2017.Kuksov.EntityFramework\Console\obj\Debug\Console.pdb
